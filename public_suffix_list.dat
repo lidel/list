@@ -11075,6 +11075,10 @@ store.dk
 *.dapps.earth
 *.bzz.dapps.earth
 
+// DWeb Gateways : https://dweb.link
+// Submitted by Marcin Rataj / Protocol Labs Infra Team <noc@protocol.ai>
+*.dweb.link
+
 // Debian : https://www.debian.org/
 // Submitted by Peter Palfrader / Debian Sysadmin Team <dsa-publicsuffixlist@debian.org>
 debian.net
